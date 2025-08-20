@@ -1,0 +1,13 @@
+{
+  "name": "truecaller-work",
+  "version": "1.0.0",
+  "description": "Truecaller Design Leadership Case Study",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": ["design", "leadership", "truecaller", "case-study"],
+  "author": "Manas Vaze",
+  "license": "MIT"
+}
